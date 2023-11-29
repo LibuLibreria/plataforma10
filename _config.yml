@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Plataforma 10
+description: Una plataforma por los Derechos Humanos
+url: https://plataforma10.org
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -38,7 +38,7 @@ social:
     - https://twitter.com/vszhub
     - https://github.com/vszhub
 google_site_verification: xxxxx
-lang: en
+lang: es
 
 sass:
   sass_dir: _sass
