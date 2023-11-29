@@ -2,10 +2,19 @@
 //
 // Styles for the sidebar.
 
+
+.plataforma10 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
 .masthead {
   text-align: center;
   margin: auto;
   width: 100%;
+  color: black; 
 
   a {
     color: inherit;
@@ -20,8 +29,7 @@
   display: block;
   margin-right: auto;
   margin-left: auto;
-  color: red;
-  font-family: 'Roboto', sans-serif;
+  color: black;
 }
 
 .masthead-title {
@@ -29,7 +37,7 @@
   margin: 0;
   font-size: 3rem;
   font-weight: 900;
-
+  font-family: 'Roboto', sans-serif;
   a:hover,
   a:focus {
     color: var(--link-hover-color);
@@ -39,9 +47,11 @@
 .masthead-tagline {
   padding: 0;
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 2.5rem;
   font-weight: 400;
-  opacity: .7;
+  opacity: .8;
+  color: black; 
+  font-family: 'Roboto', sans-serif;
 }
 
 .navigation-list {
